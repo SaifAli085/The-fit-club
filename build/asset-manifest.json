@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61471e42.css",
+    "main.js": "/static/js/main.e3d3bf06.js",
+    "static/media/image5.jpg": "/static/media/image5.943e9d00437225f31562.jpg",
+    "static/media/mainPhoto.png": "/static/media/mainPhoto.e1d0ac6dc0469c087eab.png",
+    "static/media/image1.png": "/static/media/image1.1091417d32e491f0bbb6.png",
+    "static/media/image2.png": "/static/media/image2.82da8b2725df896d8a8e.png",
+    "static/media/image3.png": "/static/media/image3.69484cb0ee7687a8c28b.png",
+    "static/media/image4.png": "/static/media/image4.2c0d30b9ce1579eb1109.png",
+    "static/media/t-image3.jpg": "/static/media/t-image3.617c9fa149521399cde7.jpg",
+    "static/media/theRock.jpg": "/static/media/theRock.65d32aaa44de7ce67764.jpg",
+    "static/media/t-image2.jpg": "/static/media/t-image2.d83445827612b0b8cfa5.jpg",
+    "static/media/t-image1.jpg": "/static/media/t-image1.0076bffd93af9606f5b0.jpg",
+    "static/media/hero_image_back.png": "/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "index.html": "/index.html",
+    "main.61471e42.css.map": "/static/css/main.61471e42.css.map",
+    "main.e3d3bf06.js.map": "/static/js/main.e3d3bf06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61471e42.css",
+    "static/js/main.e3d3bf06.js"
+  ]
+}
